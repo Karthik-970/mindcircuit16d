@@ -23,6 +23,6 @@ spec:
     spec:
       containers:
         - name: fb-pod-cont
-          image: devopshubg333/batch16d:5
+          image: karthik970/b16:httpd
           ports:
             - containerPort: 8080
