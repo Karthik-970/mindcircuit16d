@@ -16,4 +16,3 @@ spec:
 
   selector:
         app: facebook
-        env: lab
